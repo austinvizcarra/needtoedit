@@ -1,0 +1,72 @@
+header {
+padding-top:15px;
+background-color: #33ccff; 
+margin: 10px;
+height: 90px;
+border-radius: 5px;
+text-align: center;
+font-size: 200%;
+font-family: comicsansms;
+}
+ 
+body {
+
+background-color: #3333cc;
+margin: 0px;
+font-size: 14px;
+
+}
+
+
+nav {
+background-color: #1aa3ff;
+margin: 10px;
+border-radius: 5px;
+color: white;
+text-align: center;
+}
+
+
+main {
+background-color: #0099ff;
+margin: 10px;
+font-size: 110%;
+border-radius: 5px;
+padding: 20px;
+
+}
+
+span {
+font-weight: strong;
+color: red; 
+}
+
+footer { 
+margin: 10px;
+border-radius: 5px;
+background-color: #0099ff;
+}
+
+.about {
+color: red;
+font-family:special-elite;
+
+font-size: 150%;
+
+}
+
+.day66 {
+color: red;
+background-color: black;
+text-align: left;
+font-size: 300%;
+letter-spacing: -11px;
+
+}
+
+.imagesidebar {
+margin: 10px;
+font-size: 110%;
+border-radius: 5px;
+float: right;
+}
